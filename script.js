@@ -101,7 +101,7 @@ const questions = [
   },
   {
   	question: 'The first process between DNA and mRNA is?',
-  	answer: [
+  	answers: [
       { text: 'Transcription', correct: true},
       { text: 'Translation', correct: false},
       { text: 'Transduction', correct: false}
@@ -109,7 +109,7 @@ const questions = [
   },
   {
   	question: 'The organelle that is responsible for cellular respiration is?',
-  	answer: [
+  	answers: [
       { text: 'Ribosome', correct: false},
       { text: 'Lumen', correct: false},
       { text: 'Mitochondria', correct: true}
@@ -117,7 +117,7 @@ const questions = [
   },
   {
   	question: 'The fluid inside the chloroplast is called?',
-  	answer: [
+  	answers: [
       { text: 'Stroma', correct: true},
       { text: 'Cell fluid', correct: false},
       { text: 'Lumen', correct: false}
@@ -125,7 +125,7 @@ const questions = [
   },
   {
   	question: 'The change of biological communities over time is known as?',
-  	answer: [
+  	answers: [
       { text: 'Ecological succession', correct: true},
       { text: 'Growth', correct: false},
       { text: 'Specie development', correct: false}
